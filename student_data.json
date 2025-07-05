@@ -1,0 +1,22 @@
+{
+  "students": [
+      {
+          "jntu_no": "23341A05G0",
+          "name": "M Venkata Krishna",
+          "password": "student123",
+          "year": 2,
+          "semester": 4,
+          "branch": "CSE",
+          "section": "A"
+      },
+      {
+          "jntu_no": "23341A05G1",
+          "name": "Rajesh Kumar",
+          "password": "student456",
+          "year": 2,
+          "semester": 4,
+          "branch": "IT",
+          "section": "B"
+      }
+  ]
+}

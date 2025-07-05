@@ -1,0 +1,46 @@
+{
+  "faculty": [
+      {
+          "faculty_id": 1,
+          "name": "Dr. John Doe",
+          "branch": "Computer Science",
+          "password": "password123",
+          "timetable": [
+              {
+                  "schedule_id": 101,
+                  "day_of_week": "Monday",
+                  "period_start": "09:00:00",
+                  "period_end": "10:00:00",
+                  "is_lab": 0,
+                  "subject_id": 1,
+                  "subject_name": "Data Structures",
+                  "semester": 4,
+                  "section_id": 1,
+                  "section_name": "A",
+                  "branch_name": "CSE"
+              }
+          ]
+      },
+      {
+          "faculty_id": 2,
+          "name": "Prof. Jane Smith",
+          "branch": "Information Technology",
+          "password": "pass456",
+          "timetable": [
+              {
+                  "schedule_id": 201,
+                  "day_of_week": "Tuesday",
+                  "period_start": "11:00:00",
+                  "period_end": "12:00:00",
+                  "is_lab": 1,
+                  "subject_id": 3,
+                  "subject_name": "Database Management",
+                  "semester": 4,
+                  "section_id": 3,
+                  "section_name": "C",
+                  "branch_name": "IT"
+              }
+          ]
+      }
+  ]
+}
