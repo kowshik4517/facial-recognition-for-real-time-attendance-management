@@ -1,0 +1,2 @@
+# facial-recognition-for-real-time-attendance-management
+A real-time face recognition-based attendance system using OpenCV, MTCNN, and ResNet50. It captures live webcam input, detects and recognizes faces, and marks attendance automatically. The frontend is built with React.js to display live video, attendance logs, and reports. PHP handles backend operations like data storage and retrieval using JSON. 
